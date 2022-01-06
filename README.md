@@ -1,1 +1,1 @@
-
+Screener-Stock Analysis Process: 
