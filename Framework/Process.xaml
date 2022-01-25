@@ -246,7 +246,7 @@
                       <OutArgument x:TypeArguments="x:String">[msg]</OutArgument>
                     </Assign.To>
                     <Assign.Value>
-                      <InArgument x:TypeArguments="x:String">["Screenshot of company code "+in_TransactionItem("Company Code").ToString+" has been taken"]</InArgument>
+                      <InArgument x:TypeArguments="x:String">["Screenshot of company code "+in_TransactionItem("Company Code").ToString+" captured"]</InArgument>
                     </Assign.Value>
                   </Assign>
                   <Sequence DisplayName="Report data export sequence" sap:VirtualizedContainerService.HintSize="376,531" sap2010:WorkflowViewState.IdRef="Sequence_5">
